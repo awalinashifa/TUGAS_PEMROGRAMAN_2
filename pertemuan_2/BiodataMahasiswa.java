@@ -20,15 +20,3 @@ public class BiodataMahasiswa {
         mhs.tampilkanJurusan();
     }
 }
-public class BiodataMahasiswa {
-    public static void main(String[] args) {
-        MahasiswaAktif mhs = new MahasiswaAktif();
-        mhs.nama = "Awalina Shifa Fi Yahya";
-        mhs.nim = "2455201008";
-        mhs.jurusan = "Ilmu Komputer";
-
-        System.out.println("=== Data Mahasiswa ===");
-        mhs.tampilkanData();
-        mhs.tampilkanJurusan();
-    }
-}

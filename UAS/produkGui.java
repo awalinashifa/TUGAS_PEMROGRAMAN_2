@@ -809,7 +809,7 @@ public class produkGui extends javax.swing.JFrame {
 
             JOptionPane.showMessageDialog(
                     this,
-                    "From Pemesanan Wajib di isi",
+                    "Form Pemesanan Wajib di isi",
                     "Peringatan",
                     JOptionPane.WARNING_MESSAGE
             );
